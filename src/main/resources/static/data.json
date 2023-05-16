@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Max Verstappen",
+    "points": "119",
+    "position": "1"
+  },
+  {
+    "name": "Sergio Pérez",
+    "points": "105",
+    "position": "2"
+  },
+  {
+    "name": "Fernando Alonso",
+    "points": "75",
+    "position": "3"
+  },
+  {
+    "name": "Lewis Hamilton",
+    "points": "56",
+    "position": "4"
+  },
+  {
+    "name": "Carlos Sainz",
+    "points": "44",
+    "position": "5"
+  },
+  {
+    "name": "George Russell",
+    "points": "40",
+    "position": "6"
+  },
+  {
+    "name": "Charles Leclerc",
+    "points": "34",
+    "position": "7"
+  },
+  {
+    "name": "Lance Stroll",
+    "points": "27",
+    "position": "8"
+  },
+  {
+    "name": "Lando Norris",
+    "points": "10",
+    "position": "9"
+  },
+  {
+    "name": "Pierre Gasly",
+    "points": "8",
+    "position": "10"
+  },
+  {
+    "name": "Nico Hülkenberg",
+    "points": "6",
+    "position": "11"
+  },
+  {
+    "name": "Esteban Ocon",
+    "points": "6",
+    "position": "12"
+  },
+  {
+    "name": "Valtteri Bottas",
+    "points": "4",
+    "position": "13"
+  },
+  {
+    "name": "Oscar Piastri",
+    "points": "4",
+    "position": "14"
+  },
+  {
+    "name": "Zhou Guanyu",
+    "points": "2",
+    "position": "15"
+  },
+  {
+    "name": "Yuki Tsunoda",
+    "points": "2",
+    "position": "16"
+  },
+  {
+    "name": "Kevin Magnussen",
+    "points": "2",
+    "position": "17"
+  },
+  {
+    "name": "Alexander Albon",
+    "points": "1",
+    "position": "18"
+  },
+  {
+    "name": "Logan Sargeant",
+    "points": "0",
+    "position": "19"
+  },
+  {
+    "name": "Nyck de Vries",
+    "points": "0",
+    "position": "20"
+  }
+]
