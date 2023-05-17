@@ -1,102 +1,102 @@
 [
   {
+    "position": "1",
     "name": "Max Verstappen",
-    "points": "119",
-    "position": "1"
+    "points": "119"
   },
   {
+    "position": "2",
     "name": "Sergio Pérez",
-    "points": "105",
-    "position": "2"
+    "points": "105"
   },
   {
+    "position": "3",
     "name": "Fernando Alonso",
-    "points": "75",
-    "position": "3"
+    "points": "75"
   },
   {
+    "position": "4",
     "name": "Lewis Hamilton",
-    "points": "56",
-    "position": "4"
+    "points": "56"
   },
   {
+    "position": "5",
     "name": "Carlos Sainz",
-    "points": "44",
-    "position": "5"
+    "points": "44"
   },
   {
+    "position": "6",
     "name": "George Russell",
-    "points": "40",
-    "position": "6"
+    "points": "40"
   },
   {
+    "position": "7",
     "name": "Charles Leclerc",
-    "points": "34",
-    "position": "7"
+    "points": "34"
   },
   {
+    "position": "8",
     "name": "Lance Stroll",
-    "points": "27",
-    "position": "8"
+    "points": "27"
   },
   {
+    "position": "9",
     "name": "Lando Norris",
-    "points": "10",
-    "position": "9"
+    "points": "10"
   },
   {
+    "position": "10",
     "name": "Pierre Gasly",
-    "points": "8",
-    "position": "10"
+    "points": "8"
   },
   {
+    "position": "11",
     "name": "Nico Hülkenberg",
-    "points": "6",
-    "position": "11"
+    "points": "6"
   },
   {
+    "position": "12",
     "name": "Esteban Ocon",
-    "points": "6",
-    "position": "12"
+    "points": "6"
   },
   {
+    "position": "13",
     "name": "Valtteri Bottas",
-    "points": "4",
-    "position": "13"
+    "points": "4"
   },
   {
+    "position": "14",
     "name": "Oscar Piastri",
-    "points": "4",
-    "position": "14"
+    "points": "4"
   },
   {
+    "position": "15",
     "name": "Zhou Guanyu",
-    "points": "2",
-    "position": "15"
+    "points": "2"
   },
   {
+    "position": "16",
     "name": "Yuki Tsunoda",
-    "points": "2",
-    "position": "16"
+    "points": "2"
   },
   {
+    "position": "17",
     "name": "Kevin Magnussen",
-    "points": "2",
-    "position": "17"
+    "points": "2"
   },
   {
+    "position": "18",
     "name": "Alexander Albon",
-    "points": "1",
-    "position": "18"
+    "points": "1"
   },
   {
+    "position": "19",
     "name": "Logan Sargeant",
-    "points": "0",
-    "position": "19"
+    "points": "0"
   },
   {
+    "position": "20",
     "name": "Nyck de Vries",
-    "points": "0",
-    "position": "20"
+    "points": "0"
   }
 ]
