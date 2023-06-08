@@ -16,16 +16,20 @@ ScrapeTheFormula is a professional-grade SpringBoot web application designed to 
 
 ## Usage
 
+### Installation
+
+Clone the git repository and run ./gradlew bootRun inside the main project directory
+
 ### API Endpoint
 
 To retrieve the Formula 1 Standings data via the API endpoint, send a GET request to the following URL:
-http://34.65.161.100:8080/data.json
+http://localhost:8080/data.json
 
 The API will respond with a JSON object containing the parsed standings information.
 
 ### Webpage
 
-Access the ScrapeTheFormula webpage by visiting `http://34.65.161.100:8080/data.json` in your web browser. The webpage presents the Formula 1 Standings data in an organized and visually appealing manner.
+Access the ScrapeTheFormula webpage by visiting `http://localhost:8080` in your web browser. The webpage presents the Formula 1 Standings data in an organized and visually appealing manner.
 
 ## Contributing
 
