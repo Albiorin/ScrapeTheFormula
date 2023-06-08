@@ -18,7 +18,7 @@ ScrapeTheFormula is a professional-grade SpringBoot web application designed to 
 
 ### Installation
 
-Clone the git repository and run './gradlew bootRun' inside the main project directory
+Clone the git repository and run `./gradlew bootRun` inside the main project directory
 
 ### API Endpoint
 
